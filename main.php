@@ -75,7 +75,8 @@
         <div class="section-header">
             <h2>Sobre nós</h2>
             <p>
-                Conteúdo sobre nós ......
+                O Tribunal de Justiça do Amazonas, cuja jurisdição abrange a Comarca de Manaus e mais sessenta comarcas do interior do Estado, tem um contingente de: 26 Desembargadores, 93 juízes da capital, 80 juízes do interior, 41 juízes de primeira entrância, 11 juízes auxiliares de segunda entrância e 16 juízes substitutos, servidores e estágiarios.
+                
             </p>
         </div>
 
