@@ -95,6 +95,7 @@
                 </div>
             </div>
 
+            
             <div class="col-lg-7">
                 <h3 class="pt-0 pt-lg-5">Neque officiis dolore maiores et exercitationem quae est seda lidera pat
                     claero</h3>
